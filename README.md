@@ -22,5 +22,5 @@ My 5m custom incising rig:
 
 ![Rig](./media/rig.jpg)
 
-![Rig video](./media/rig.mov)
+![Rig video](./media/rig.mp4)
 
