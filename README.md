@@ -22,5 +22,5 @@ My 5m custom incising rig:
 
 ![Rig](./media/rig.jpg)
 
-![Rig video](./media/rig.mp4)
+https://github.com/harakas/inciser/assets/10488754/191315de-ae52-4170-8ce9-6a870e021159
 
