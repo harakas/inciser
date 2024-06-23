@@ -17,3 +17,8 @@ On an xTool D1 Pro 20W I can burn about three 5-15mm holes per second.
 If I did this project again I'd probably try to get a different engraver.
 xTool has their own proprietary firmware and only supports a subset of
 GRBL codes.
+
+My 5m custom incising rig:
+
+![Rig](./media/rig.jpg)
+
